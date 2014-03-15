@@ -1,4 +1,4 @@
-*WordPress Plugin:*
+*A WordPress Plugin*
 Multiple Featured Images
 ==================
 

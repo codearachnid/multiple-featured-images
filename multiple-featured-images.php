@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Multiple Featured Images
+Plugin URI: http://codearachnid.github.io/multiple-featured-images
 Description: Enables multiple featured images for posts and pages. If you like my plugin, feel free to give me reward ;) <a href="http://www.amazon.de/registry/wishlist/16KTW9ZG027C8" title="Amazon Wishlist" target="_blank">Amazon Wishlist</a>
 Version: 1.0
 Author: Timothy Wood @codearachnid
 Author URI: http://www.codearachnid.com
 License: GPLv2
-*/
 
-/*
+
 Copyright 2014 Imagine Simplicity and the Collaborators
 
 This program is free software; you can redistribute it and/or
